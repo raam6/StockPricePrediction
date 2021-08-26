@@ -1,2 +1,2 @@
 # StockPricePrediction
-Stock Price prediction forecast using fbProhpet
+Stock Price prediction forecast using fbProphet
